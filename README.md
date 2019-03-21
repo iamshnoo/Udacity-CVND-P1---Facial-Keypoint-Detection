@@ -9,4 +9,6 @@ following rubric. https://github.com/udacity/P1_Facial_Keypoints/blob/master/REA
 The github repository of Udacity for this project is https://github.com/udacity/P1_Facial_Keypoints 
 
 I have only completed the project upto the minimum specifications required.
-Optional exercises will be completed and uploaded later as and when time permits.
+Optional exercises will be completed and uploaded later as and when time permits.<br/>
+
+![Alt](https://raw.githubusercontent.com/udacity/P1_Facial_Keypoints/master/images/key_pts_example.png)
